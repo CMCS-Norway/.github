@@ -10,6 +10,7 @@ We are a dedicated team working on various cloud management and services project
 
 - Each repository in this organization should include a basic README.md file describing its contents.
 - README.md should provide an overview of the repository's purpose, contents, and any relevant information for users and contributors.
+- It is recommended that all repositories have branch protection enabled and follow pull request guidelines for better collaboration.
 
 ## Contributions
 
